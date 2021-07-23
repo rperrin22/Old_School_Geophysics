@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Bob's Page](https://github.com/rperrin22/Old_School_Geophysics/bob.html) and ![Image](src)
+
 ```
+[Bob's Page](https://github.com/rperrin22/Old_School_Geophysics/bob.html) and ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
