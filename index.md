@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 
 ```
-[Bob's Page](https://github.com/rperrin22/Old_School_Geophysics/blob/7439df06554c403e47471a53975c3b24ef68829b/bob.html)
+[Bob's Page](https://github.com/rperrin22/Old_School_Geophysics/bob.html)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
